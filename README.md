@@ -38,9 +38,3 @@ This is a simple and efficient To-Do List application built using HTML5, CSS3, a
 - Edit `css/style.css` to change colors, fonts, and layout.
 - Update `js/main.js` to add or enhance functionalities.
 
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
-
-## License
-This project is licensed under the MIT License.
-
